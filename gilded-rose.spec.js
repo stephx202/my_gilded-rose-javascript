@@ -12,3 +12,4 @@ describe("updateQuality", () => {
     expect(testItem.sellIn).toBe(4);
   });
 });
+
