@@ -1,6 +1,6 @@
 # Gilded Rose
 
-Hi and welcome to team Gilded Rose.
+Hi and welcome to team Gilded Rose!
 
 We are a small inn with a prime location in a prominent city ran
 by a friendly innkeeper named Allison. We also buy and sell only the finest
